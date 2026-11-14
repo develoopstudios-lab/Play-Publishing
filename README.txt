@@ -30,4 +30,4 @@ NOTES
 - JSON-LD describes an independent service provider. It does not imply affiliation with Google.
 - The D-U-N-S content is phrased as lookup/application guidance, not a promise to sell or issue identifiers.
 - The current sitemap includes only the homepage because this package is a single-page website.
-google-site-verification: google03ed97035cd6e62b.html
+
